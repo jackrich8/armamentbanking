@@ -1,0 +1,19 @@
+.unread:last-child{
+    border-bottom: none;
+}
+
+.imgLogo{
+    border: 1px solid transparent;
+    border-radius: 50%;
+    height: 60px;
+    width: 80%;
+/*    padding: 10px;*/
+}
+
+.imgLogo p{
+    color: #fff;
+    text-align: center;
+    font-size: 25px;
+    padding: 18px 10px;
+    text-transform: uppercase;
+}

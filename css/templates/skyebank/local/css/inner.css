@@ -1,0 +1,297 @@
+.branding .logo-image a {
+	background: #ffffff !important;
+	height: 87px;
+	display: block;
+	border-radius: 0 0 8px 8px;
+	behavior: url(https://www.polarisbanklimited.com/skyebank/pie/PIE.htc);
+	text-align: center;
+}
+
+.t3-wrapper {
+  background: transparent;
+}
+.t3-header-inner {
+  padding: 0;
+}
+.t3-header-inner:before,
+.t3-header-inner:after {
+  content: " ";
+  display: table;
+}
+.t3-header-inner:after {
+  clear: both;
+}
+.t3-header-inner .topheader {
+  background: #781496;
+}
+.t3-header-inner .topheader .socialmedia {
+  margin-top: 10px;
+}
+@media screen and (min-width: 998px) {
+  .t3-header-inner .topheader .socialmedia {
+    text-align: right;
+  }
+}
+.t3-header-inner .topheader .socialmedia ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 200px;
+}
+.t3-header-inner .topheader .socialmedia ul li {
+  display: inline-block;
+  padding: 0 5px;
+}
+.t3-header-inner .topheader .socialmedia ul li i {
+  color: #ffffff;
+  font-weight: normal;
+}
+.t3-header-inner .topheader .socialmedia ul li i:hover {
+  color: #e2e26c;
+}
+.t3-header-inner .branding {
+  padding: 20px 0;
+}
+.t3-header-inner .branding .logo-image a {
+  text-align: right;
+}
+.t3-header-inner .innerbar {
+  background: #C183D4;
+}
+.t3-header-inner .innerbar .t3-productnav {
+  background: transparent;
+  border-radius: 0;
+  padding: 7px;
+  min-height: 35px;
+}
+.t3-header-inner .innerbar .t3-productnav .nav > li > a {
+  font-weight: bold;
+}
+.t3-header-inner .innerbar .ibanking {
+  padding: 0 10px;
+  
+}
+.t3-header-inner .innerbar .ibanking ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  margin-top: 0;
+}
+.t3-header-inner .innerbar .ibanking ul li {
+  display: inline-block;
+  width: 49%;
+}
+.t3-header-inner .innerbar .ibanking ul li a {
+  color: #ffffff;
+  width: 100%;
+  display: block;
+  height: auto;
+  text-align: center;
+  font-weight: normal;
+  padding: 10px;
+  text-transform: uppercase;
+  background: #e2e26c;
+  color: #1d4063;
+}
+.t3-header-inner .innerbar .ibanking ul li .subInternetNav {
+  display: none;
+  position: absolute;
+  width: 220px;
+  left: 50%;
+  top: 5px;
+}
+.t3-header-inner .innerbar .ibanking ul li .subInternetNav li {
+  width: 30%;
+}
+.t3-header-inner .innerbar .ibanking ul li .subInternetNav li a {
+  background: none;
+  padding: 5px;
+  font-weight: normal;
+  color: #1d4063;
+}
+.t3-header-inner .innerbar .ibanking ul li:first-child a {
+  
+	padding-left: 0;
+	background: #781496;
+	color: #e2e26c;
+}
+.t3-header-inner .innerbar .ibanking ul li.ibank:hover .subInternetNav {
+  display: block;
+}
+.t3-header-inner .innerbar .ibanking ul li.credit {
+  display: none;
+}
+.navbar-default .navbar-nav > li > a {
+  border: none;
+  padding: 5px 15px 0;
+}
+.t3-secnav {
+  border-top: 1px solid #781496;
+	border-bottom: 1px solid #781496;
+	margin-top: 20px;
+}
+.t3-secnav .nav > li > a {
+  color: #781496;
+}
+.head-search {
+  margin-top: 0;
+}
+.head-search:before,
+.head-search:after {
+  content: " ";
+  display: table;
+}
+.head-search:after {
+  clear: both;
+}
+.head-search form {
+  margin: 0;
+  border: 0 solid #ffffff;
+  border-radius: 0;
+  padding: 0px;
+}
+.head-search form .btn-primary {
+  background: transparent;
+  border: none;
+  border-left: 1px solid #ffffff;
+  border-radius: 0;
+  display: none;
+}
+.head-search .form-control {
+  box-shadow: none;
+  color: #555555;
+  border: 0;
+  position: relative;
+  margin: 0;
+  width: 0;
+  -webkit-transition: width 0.2s;
+  -o-transition: width 0.2s;
+  transition: width 0.2s;
+  background: transparent url(../../images/inner-search.png) no-repeat;
+  background-position: 5px 6px;
+}
+@media screen and (min-width: 992px) {
+  .head-search .form-control:focus {
+    width: 140px;
+  }
+}
+.spotlight-1 {
+  margin-top: 10px;
+}
+.spotlight-1 .breadcrumb {
+  padding: 0;
+  margin-bottom: 0;
+  list-style: none;
+  background-color: #fff;
+  border-radius: 0;
+}
+.spotlight-1 .breadcrumb .hasTooltip {
+  display: none;
+}
+.spotlight-1 .breadcrumb ol li {
+  color: #781496;
+}
+.spotlight-1 .banners {
+  margin-top: 10px;
+  overflow: hidden;
+}
+@media screen and (min-width: 992px) {
+  .spotlight-1 .banners {
+    min-height: 190px;
+  }
+}
+.spotlight-1 .banners img {
+  width: 100%;
+  height: 215px;
+}
+.spotlight-1 .pagetools ul {
+  list-style: none;
+  margin: 0;
+  float: right;
+}
+.spotlight-1 .pagetools ul li {
+  display: inline-block;
+}
+.spotlight-1 .pagetools ul li a {
+  text-transform: uppercase;
+}
+.spotlight-1 .pagetools ul li.textsizer {
+  text-transform: uppercase;
+  padding-left: 18px;
+  padding-right: 20px;
+  background: url(../../images/textsizer.png) no-repeat 0px -2px;
+}
+.spotlight-1 .pagetools ul li.textsizer ul {
+  margin: 0;
+  padding: 0;
+  margin-left: 5px;
+}
+.spotlight-1 .pagetools ul li.textsizer ul li {
+  margin-left: 5px;
+}
+.spotlight-1 .pagetools ul li.reader {
+  padding-left: 25px;
+  background: url(../../images/reader.png) no-repeat;
+}
+.spotlight-2 {
+  padding-bottom: 20px;
+}
+@media screen and (min-width: 992px) {
+  .spotlight-2 {
+    padding-top: 20px;
+  }
+}
+.spotlight-2 ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.spotlight-2 ul li {
+  display: inline-block;
+  width: 49%;
+  text-align: center;
+  margin-bottom: 3px;
+}
+@media screen and (min-width: 992px) {
+  .spotlight-2 ul li {
+    width: 18%;
+    margin-bottom: 0;
+  }
+}
+.spotlight-2 ul li a {
+  display: block;
+  color: #ffffff;
+  padding-top: 70px;
+  margin: auto;
+}
+@media screen and (min-width: 992px) {
+  .spotlight-2 ul li a {
+    border-radius: 50%;
+    behavior: url(https://www.polarisbanklimited.com/skyebank/pie/PIE.htc);
+    width: 120px;
+    height: 120px;
+  }
+}
+.spotlight-2 ul li a.open-account {
+  background: #4bc038 url(../../images/open-account.png) no-repeat 50% 30%;
+}
+.spotlight-2 ul li a.resource-center {
+  background: #f2438d url(../../images/resouce-centre.png) no-repeat 50% 25%;
+}
+.spotlight-2 ul li a.faqs {
+  background: #a8a83a url(../../images/faqs.png) no-repeat 50% 30%;
+}
+.spotlight-2 ul li a.security-centre {
+  background: #466380 url(../../images/security-centre.png) no-repeat 50% 25%;
+}
+.spotlight-2 ul li a.customer-service {
+  background: #faa936 url(../../images/customer-service.png) no-repeat 50% 30%;
+}
+.nspArts,
+.nspLinksWrap {
+  padding: 0 !important;
+}
+.branding .logo-image a > img {
+  width: 75%;
+}

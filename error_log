@@ -1,0 +1,169 @@
+[12-Feb-2021 19:14:05 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[12-Feb-2021 19:14:11 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[12-Feb-2021 19:14:42 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[12-Feb-2021 19:14:46 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[12-Feb-2021 19:16:16 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[12-Feb-2021 19:18:21 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/layouts/breadcrumbs.php:2
+Stack trace:
+#0 /home/tonymoto/public_html/armament/bank-accounts.php(14): include()
+#1 {main}
+  thrown in /home/tonymoto/public_html/armament/layouts/breadcrumbs.php on line 2
+[12-Feb-2021 19:28:31 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 151
+[12-Feb-2021 19:29:52 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 151
+[12-Feb-2021 19:30:28 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 151
+[12-Feb-2021 19:32:14 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 152
+[12-Feb-2021 19:32:23 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 152
+[12-Feb-2021 19:32:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 152
+[12-Feb-2021 19:32:42 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 152
+[12-Feb-2021 19:32:56 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 152
+[12-Feb-2021 19:33:03 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 152
+[12-Feb-2021 19:38:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 151
+[12-Feb-2021 19:38:46 Africa/Lagos] PHP Notice:  Constant APP_NAME already defined in /home/tonymoto/public_html/armament/include/config.php on line 4
+[12-Feb-2021 19:38:46 Africa/Lagos] PHP Notice:  Constant BASE_PATH already defined in /home/tonymoto/public_html/armament/include/config.php on line 5
+[12-Feb-2021 19:38:46 Africa/Lagos] PHP Notice:  Constant DB_HOST already defined in /home/tonymoto/public_html/armament/include/config.php on line 6
+[12-Feb-2021 19:38:46 Africa/Lagos] PHP Notice:  Constant DB_USERNAME already defined in /home/tonymoto/public_html/armament/include/config.php on line 7
+[12-Feb-2021 19:38:46 Africa/Lagos] PHP Notice:  Constant DB_PASSWORD already defined in /home/tonymoto/public_html/armament/include/config.php on line 8
+[12-Feb-2021 19:38:46 Africa/Lagos] PHP Notice:  Constant DB_NAME already defined in /home/tonymoto/public_html/armament/include/config.php on line 9
+[12-Feb-2021 19:38:46 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:152
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 152
+[12-Feb-2021 19:39:27 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 151
+[12-Feb-2021 19:41:38 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 151
+[12-Feb-2021 19:43:55 Africa/Lagos] PHP Notice:  Undefined variable: result in /home/tonymoto/public_html/armament/bank-payments.php on line 157
+[12-Feb-2021 19:43:55 Africa/Lagos] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/tonymoto/public_html/armament/bank-payments.php on line 157
+[12-Feb-2021 19:47:23 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 19:48:19 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 19:49:00 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 19:50:57 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 19:50:59 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 19:51:05 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 19:53:19 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 19:55:25 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 19:56:10 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 20:00:34 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 20:01:19 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 20:01:29 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[12-Feb-2021 20:03:21 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[13-Feb-2021 13:33:30 Africa/Lagos] PHP Notice:  Undefined variable: usr in /home/tonymoto/public_html/armament/layouts/head.php on line 13
+[13-Feb-2021 13:33:30 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[13-Feb-2021 13:34:20 Africa/Lagos] PHP Notice:  Undefined variable: ans in /home/tonymoto/public_html/armament/dashboard.php on line 135
+[15-Feb-2021 16:46:25 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[15-Feb-2021 16:48:31 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[15-Feb-2021 16:48:39 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[15-Feb-2021 16:48:43 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[15-Feb-2021 16:50:37 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:50:37 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[15-Feb-2021 16:51:48 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:51:48 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/dashboard.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/dashboard.php on line 4
+[15-Feb-2021 16:53:27 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:54:08 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 160
+[15-Feb-2021 16:54:17 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 160
+[15-Feb-2021 16:54:29 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:54:29 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:160
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 160
+[15-Feb-2021 16:56:33 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:56:46 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:56:46 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 11
+[15-Feb-2021 16:57:52 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:57:52 Africa/Lagos] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_result::select() in /home/tonymoto/public_html/armament/bank-payments.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/tonymoto/public_html/armament/bank-payments.php on line 11
+[15-Feb-2021 16:58:53 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:58:55 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:59:19 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 16:59:21 Africa/Lagos] PHP Notice:  session_start(): A session had already been started - ignoring in /home/tonymoto/public_html/armament/connect.php on line 2
+[15-Feb-2021 17:02:59 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:03:02 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:03:11 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:03:13 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:03:19 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:20:05 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:20:07 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:20:47 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:30:04 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:30:11 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:30:31 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:39:23 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
+[15-Feb-2021 17:40:21 Africa/Lagos] PHP Parse error:  syntax error, unexpected '$act_num' (T_VARIABLE) in /home/tonymoto/public_html/armament/bank-payments.php on line 14
